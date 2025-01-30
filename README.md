@@ -54,7 +54,7 @@ bun run index.ts provider language
 ```
 
 - Where `provider` is either `cohere` or `elevenlabs`
-- Where `langauge is either `typescript` or `python`
+- Where `langauge` is either `typescript` or `python`
 
 
 ### Replacing snippets
